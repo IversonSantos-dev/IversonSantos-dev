@@ -12,7 +12,7 @@ Sou desenvolvedor focado em construir soluções práticas e escaláveis — bac
 ## Projetos em destaque
 - [separacaoprodu](https://github.com/Nosrevi-tech/separacaoprodu) — Projeto em TypeScript; descrição técnica a ser adicionada.
 - [DigitalMarket](https://github.com/Nosrevi-tech/DigitalMarket) — Repositório em desenvolvimento (sem conteúdo no momento).
-- [casamentokrisiciaiverson](https://github.com/Nosrevi-tech/casamentokrisiciaiverson) — Projeto criado com StackBlitz (TypeScript). Demo: https://stackblitz.com/edit/casamentokrisicaeiverson
+- [casamentokrisiciaiverson](https://github.com/Nosrevi-tech/casamentokrisiciaiverson) — Projeto criado com StackBlitz (TypeScript). Demo: h[ttps://stackblitz.com/edit/casamentokrisicaeiverson](https://casamentoemordem.com.br/)
 - [drink-budget-buddy](https://github.com/Nosrevi-tech/drink-budget-buddy) — Aplicação em TypeScript para gerenciamento de orçamento de bebidas; descrição técnica a ser adicionada.
 
 ---
