@@ -6,7 +6,7 @@ Sou desenvolvedor focado em construir soluções práticas e escaláveis — bac
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=IversonSantos-dev&show_icons=true&theme=radical)](https://github.com/IversonSantos-dev)
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=IversonSantos-dev&theme=react-dark)](https://github.com/IversonSantos-dev)
 [![trophy](https://github-profile-trophy.vercel.app/?username=IversonSantos-dev&theme=onedark)](https://github.com/IversonSantos-dev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IversonSantos-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
