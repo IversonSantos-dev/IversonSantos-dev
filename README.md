@@ -11,7 +11,7 @@ Sou estudante de desenvolvimento focado em construir soluções práticas e esca
 ---
 
 ## Projetos em destaque
-- [Casamento Em Ordem](https://github.com/Nosrevi-tech/CasamentoemOrdem-README) — Projeto criado com StackBlitz (TypeScript). Demo:(https://casamentoemordem.com.br/)
+- [Casamento Em Ordem](https://github.com/IversonSantos-dev/CasamentoemOrdem-README) — Projeto criado com StackBlitz (TypeScript). Demo:(https://casamentoemordem.com.br/)
 - [Separação Produtos](https://github.com/Nosrevi-tech/separacaoprodu) — Projeto em TypeScript; descrição técnica a ser adicionada.
 - [DigitalMarket](https://github.com/Nosrevi-tech/DigitalMarket) — Repositório em desenvolvimento (sem conteúdo no momento).
 - [drink-budget-buddy](https://github.com/Nosrevi-tech/drink-budget-buddy) — Aplicação em TypeScript para gerenciamento de orçamento de bebidas; descrição técnica a ser adicionada.
