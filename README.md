@@ -6,6 +6,7 @@ Sou desenvolvedor focado em construir soluções práticas e escaláveis — bac
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=IversonSantos-dev&show_icons=true&theme=radical)](https://github.com/IversonSantos-dev)
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=IversonSantos-dev&theme=react-dark)](https://github.com/IversonSantos-dev)
 [![trophy](https://github-profile-trophy.vercel.app/?username=IversonSantos-dev&theme=onedark)](https://github.com/IversonSantos-dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IversonSantos-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -55,4 +56,4 @@ Padrões sugeridos:
 
 ---
 
-> Observação: você pediu que eu incluísse os repositórios: separacaoprodu, DigitalMarket, casamentoemordem, drink-budget-buddy. Não foi encontrado nenhum repositório chamado `casamentoemordem` sob o usuário Nosrevi-tech; por isso incluí `casamentokrisiciaiverson` (que parece ser o repositório de casamento disponível) no lugar. Se preferir outro nome ou quiser que eu renomeie/crie `casamentoemordem`, diga e eu ajusto.
+
