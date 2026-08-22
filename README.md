@@ -76,6 +76,8 @@ Aplicação em TypeScript para gerenciamento e acompanhamento de orçamento de b
 
 ## Estatísticas do GitHub
 
+## Estatísticas do GitHub
+
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=IversonSantos-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Iverson Santos" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IversonSantos-dev&layout=compact&theme=radical&langs_count=8" alt="Principais linguagens de Iverson Santos" />
