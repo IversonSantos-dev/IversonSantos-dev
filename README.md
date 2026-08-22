@@ -74,19 +74,17 @@ Aplicação em TypeScript para gerenciamento e acompanhamento de orçamento de b
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## Estatísticas do GitHub
 
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IversonSantos-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IversonSantos-dev&layout=compact&theme=radical&langs_count=8" alt="Principais linguagens" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IversonSantos-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Iverson Santos" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IversonSantos-dev&layout=compact&theme=radical&langs_count=8" alt="Principais linguagens de Iverson Santos" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IversonSantos-dev&theme=react-dark&hide_border=true" alt="Gráfico de atividade no GitHub" />
 </div>
-
 ## Como trabalho
 
 Procuro manter cada projeto com uma base técnica clara, incluindo documentação, instruções de instalação, decisões de arquitetura e próximos passos. Acredito que código bem explicado facilita a colaboração e torna a evolução do produto mais sustentável.
