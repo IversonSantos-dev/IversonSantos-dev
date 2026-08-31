@@ -18,7 +18,7 @@ Construo soluções práticas, escaláveis e orientadas a resultados — da idei
 
 ## Sobre mim
 
-Sou estudante de desenvolvimento de software e gosto de transformar problemas reais em aplicações funcionais, bem estruturadas e fáceis de evoluir. Tenho interesse em atuar em todo o ciclo de desenvolvimento, combinando **frontend**, **backend**, bancos de dados, cloud e automação.
+Sou um desenvolvedor de software e gosto de transformar problemas reais em aplicações funcionais, bem estruturadas e fáceis de evoluir. Tenho interesse em atuar em todo o ciclo de desenvolvimento, combinando **frontend**, **backend**, bancos de dados, cloud e automação.
 
 No meu GitHub, você encontrará projetos autorais, experimentos técnicos e aplicações construídas para colocar ideias em prática. Estou sempre buscando aprender, melhorar meu código e documentar decisões que ajudem outros desenvolvedores.
 
