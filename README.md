@@ -18,9 +18,9 @@ Construo soluções práticas, escaláveis e orientadas a resultados — da idei
 
 ## Sobre mim
 
-Sou um desenvolvedor de software e gosto de transformar problemas reais em aplicações funcionais, bem estruturadas e fáceis de evoluir. Tenho interesse em atuar em todo o ciclo de desenvolvimento, combinando **frontend**, **backend**, bancos de dados, cloud e automação.
+Sou um desenvolvedor de software e gosto de transformar problemas reais em aplicações funcionais, bem estruturadas e fáceis de evoluir. Tenho interesse em atuar em todo o ciclo de desenvolvimento, desde a concepção e modelagem até a entrega e manutenção.
 
-No meu GitHub, você encontrará projetos autorais, experimentos técnicos e aplicações construídas para colocar ideias em prática. Estou sempre buscando aprender, melhorar meu código e documentar decisões que ajudem outros desenvolvedores.
+No meu GitHub, você encontrará projetos autorais, experimentos técnicos e aplicações construídas para colocar ideias em prática. Estou sempre buscando aprender, melhorar meu código e documentar bem o que desenvolvo.
 
 > Meu objetivo é criar tecnologia útil, confiável e com uma boa experiência para quem usa.
 
@@ -34,6 +34,9 @@ No meu GitHub, você encontrará projetos autorais, experimentos técnicos e apl
 | **Infraestrutura** | Deploy, cloud, containers, automações e boas práticas de entrega. |
 
 ## Projetos em destaque
+
+### [Mimos Ateliê](https://github.com/IversonSantos-dev/mimos_atelie)
+Plataforma moderna para vitrine digital, personalização sob medida e gestão de catálogo de alta joalheria sacra e artigos devocionais.
 
 ### [Casamento Em Ordem](https://github.com/IversonSantos-dev/CasamentoemOrdem-README)
 Aplicação criada com TypeScript para apoiar a organização de preparativos de casamento. Possui uma demonstração disponível em [casamentoemordem.com.br](https://casamentoemordem.com.br/).
@@ -74,7 +77,6 @@ Aplicação em TypeScript para gerenciamento e acompanhamento de orçamento de b
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 
-
 ## Estatísticas do GitHub
 
 <div align="center">
@@ -85,9 +87,10 @@ Aplicação em TypeScript para gerenciamento e acompanhamento de orçamento de b
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IversonSantos-dev&theme=react-dark&hide_border=true" alt="Gráfico de atividade no GitHub" />
 </div>
+
 ## Como trabalho
 
-Procuro manter cada projeto com uma base técnica clara, incluindo documentação, instruções de instalação, decisões de arquitetura e próximos passos. Acredito que código bem explicado facilita a colaboração e torna a evolução do produto mais sustentável.
+Procuro manter cada projeto com uma base técnica clara, incluindo documentação, instruções de instalação, decisões de arquitetura e próximos passos. Acredito que código bem explicado facilita a manutenção, a evolução e a colaboração.
 
 ## Vamos conversar?
 
@@ -96,6 +99,7 @@ Se você quiser trocar ideias sobre desenvolvimento, tecnologia ou oportunidades
 <p>
   <a href="https://iversonsantos.dev"><img src="https://img.shields.io/badge/Portfólio-IversonSantos.dev-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
   <a href="https://linkedin.com/in/iverson-santos-a96706193"><img src="https://img.shields.io/badge/LinkedIn-Iverson_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/IversonSantos-dev"><img src="https://img.shields.io/badge/GitHub-IversonSantos.dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:iverson.paiva11@gmail.com"><img src="https://img.shields.io/badge/E--mail-iverson.paiva11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
   <a href="https://instagram.com/iverson.paiva"><img src="https://img.shields.io/badge/Instagram-iverson.paiva-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
