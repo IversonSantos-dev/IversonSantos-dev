@@ -36,7 +36,7 @@ No meu GitHub, você encontrará projetos autorais, experimentos técnicos e apl
 ## Projetos em destaque
 
 ### [Mimos Ateliê](https://github.com/IversonSantos-dev/mimos_atelie)
-Plataforma moderna para vitrine digital, personalização sob medida e gestão de catálogo de alta joalheria sacra e artigos devocionais.
+Plataforma moderna para vitrine digital, personalização sob medida e gestão de catálogo de alta joalheria sacra e artigos devocionais.Possui uma demonstração disponível em [https://mimosatelie.netlify.app](https://mimosatelie.netlify.app).
 
 ### [Casamento Em Ordem](https://github.com/IversonSantos-dev/CasamentoemOrdem-README)
 Aplicação criada com TypeScript para apoiar a organização de preparativos de casamento. Possui uma demonstração disponível em [casamentoemordem.com.br](https://casamentoemordem.com.br/).
